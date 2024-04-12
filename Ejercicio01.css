@@ -1,0 +1,25 @@
+h1{
+    background-color: orangered;
+color: black;
+text-align: center;
+}
+.img-container {
+    text-align: center;
+    background-color: midnightblue;
+    display: block;
+    border: 10px solid black;
+  }
+  ul{
+    color: black;
+    font-weight: bold;
+  }
+  ol{
+    color: black;
+    font-weight: bold;
+  }
+  #caja{
+    background-color: orangered;
+    width: 1500px;
+    height: 20px;
+    text-align: center;
+  }
